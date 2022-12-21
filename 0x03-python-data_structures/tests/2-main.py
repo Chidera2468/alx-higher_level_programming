@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+10 lines (8 sloc)  221 Bytes
+=======
+>>>>>>> refs/remotes/origin/master
 #!/usr/bin/python3
 replace_in_list = __import__('2-replace_in_list').replace_in_list
 
@@ -8,3 +12,7 @@ new_list = replace_in_list(my_list, idx, new_element)
 
 print(new_list)
 print(my_list)
+<<<<<<< HEAD
+
+=======
+>>>>>>> refs/remotes/origin/master
